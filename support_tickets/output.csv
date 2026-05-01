@@ -1,1 +1,113 @@
-issue,subject,company,response,product_area,status,request_type,justification
+,,ALL .csv support tokens couldn’t be processed inbatched at a time due to api free tier quota limits.  SO it includestickets from corpus and from single mode in batch mode,,,,,
+sequence_order,ticket_id,timestamp,status,product_area,response,justification,request_type
+2,T002,2026-05-01T22:49:44.171350,replied,Test score dispute and review,"We understand you have concerns about your test score and would like your answers reviewed. Unfortunately, we are unable to review individual test answers or adjust scores.
+
+For issues related to test integrity or scoring, please contact support@hackerrank.com. They will be able to assist you further.",Classified as HackerRank issue in Test score dispute and review. Intent: The user wants their HackerRank test score reviewed and increased due to perceived unfair grading.. Relevant KB found with confidence 0.613.,feature_request
+3,T003,2026-05-01T22:49:56.771965,escalated,Transaction dispute and refund,Thank you for reaching out. Your request has been flagged for priority review by our specialist team. A support representative will contact you shortly to assist with this matter.,Escalated due to: High-risk keyword: 'refund',feature_request
+4,T004,2026-05-01T22:50:27.385788,escalated,General,Thank you for reaching out. Your request has been flagged for priority review by our specialist team. A support representative will contact you shortly to assist with this matter.,Escalated due to: High-risk keyword: 'refund',bug
+5,T005,2026-05-01T22:50:44.485840,escalated,Payment issue and refund request,Thank you for reaching out. Your request has been flagged for priority review by our specialist team. A support representative will contact you shortly to assist with this matter.,Escalated due to: High-risk keyword: 'give me my money',bug
+6,T006,2026-05-01T22:51:15.090344,replied,Hiring infosec process support,"I understand you're looking for assistance with integrating HackerRank into your company's infosec process, specifically with filling out forms.
+
+HackerRank offers a feature called QuickApply that can help automate this process. QuickApply extracts key details from your HackerRank profile, such as personal information, work experience, education, and skills, to populate job application forms.
+
+Currently, QuickApply supports applications powered by Avature, Greenhouse, Oracle, SmartRecruiters, Workable, and Workday.
+
+If your company uses one of these Applicant Tracking Systems, QuickApply might be able to assist with your form-filling needs.",Classified as HackerRank issue in Hiring infosec process support. Intent: The user wants assistance with their company's information security process for HackerRank hiring.. Relevant KB found with confidence 0.710.,feature_request
+7,T007,2026-05-01T22:51:44.867141,replied,Practice submissions and apply tab,"Hello!
+
+It sounds like you're having trouble with submissions and accessing certain features.
+
+If you're not seeing your challenge results, please wait for them to process, as they usually appear shortly after submission. Once evaluated, you can find your points, badges, and rank in the upper-right corner of the challenge page. You may also want to check the leaderboard, as it can take time to refresh.
+
+Regarding the ""Apply"" tab, I couldn't find information about this specific tab in the provided documentation. However, if you're looking to practice coding challenges, you can access them through the platform.
+
+If you continue to experience issues with submissions, please try closing and reopening the challenge window, or attempting it in a different supported browser like Chrome, Firefox, or Edge. Ensuring a stable internet connection is also important.",Classified as HackerRank issue in Practice submissions and apply tab. Intent: The user is unable to submit practice problems and cannot see the apply tab.. Relevant KB found with confidence 0.478.,bug
+8,T008,2026-05-01T22:52:06.840108,replied,Submission system across challenges,"We're sorry to hear you're experiencing issues with submitting your challenges.
+
+If you're encountering problems, please try the following:
+1. Close the challenge window and reopen it using the same challenge link.
+2. Try opening the challenge in another supported browser, such as the latest versions of Chrome, Firefox, or Edge.
+3. Ensure your internet connection is stable.
+
+If you are still facing issues, please refer to the FAQ or contact HackerRank support at support@hackerrank.com.",Classified as HackerRank issue in Submission system across challenges. Intent: User is experiencing issues with submissions not working on the HackerRank website.. Relevant KB found with confidence 0.684.,bug
+9,T009,2026-05-01T22:52:27.488992,replied,Compatibility check error,"I understand you're experiencing an issue with the compatibility check, specifically with Zoom connectivity, and it's preventing you from taking the test.
+
+To address this, please ensure you are sitting in a well-lit area and facing straight at the camera if it's a proctored test. You can also check your network coverage before taking the test by using the provided Internet compatibility check link.
+
+If you continue to face issues after these steps, please reach out to the appropriate team for further assistance.",Classified as Unknown issue in Compatibility check error. Intent: User wants to resolve a blocker in the compatible check due to zoom connectivity issues.. Relevant KB found with confidence 0.510.,bug
+10,T010,2026-05-01T22:52:50.375287,replied,Assessment rescheduling request,"Thank you for reaching out. To reschedule an interview, you will need to log in to your HackerRank for Work account using your credentials. Then, navigate to the ""Interviews"" section.
+
+When you reschedule, HackerRank automatically sends email notifications to the candidate and interviewers with the updated time. Please ensure that the interview has not yet been conducted to be eligible for rescheduling.
+
+I am unable to directly reschedule your assessment. For assistance with specific technical issues or if you encounter any problems during the rescheduling process, please contact the HackerRank Solution Engineering team.",Classified as HackerRank issue in Assessment rescheduling request. Intent: User wants to reschedule their HackerRank assessment due to unforeseen circumstances.. Relevant KB found with confidence 0.652.,feature_request
+11,T011,2026-05-01T22:53:12.620127,replied,Inactivity timers and candidate/interviewer experience,"If no other interviewers are present when you leave an interview, the candidate will be moved to the lobby, and the interview will automatically end after an hour of inactivity. I cannot confirm if inactivity times differ between candidates and interviewers, or if the system automatically ends interviews due to a lack of activity on the main HR screen. The provided documentation does not contain this information.",Classified as Unknown issue in Inactivity timers and candidate/interviewer experience. Intent: User wants to understand and potentially increase inactivity timeouts to prevent premature session termination.. Relevant KB found with confidence 0.606.,feature_request
+12,T012,2026-05-01T22:53:31.041724,replied,general functionality issue,"I understand you're experiencing issues with the integration, and I'm here to help. To better assist you, could you please provide more details about what specific problem you are encountering? Knowing the exact nature of the issue will allow me to investigate and provide the most accurate solution.",Classified as Unknown issue in general functionality issue. Intent: The user needs assistance because their unspecified service is not working.. Relevant KB found with confidence 0.425.,bug
+13,T013,2026-05-01T22:53:53.268662,replied,User management,We're unable to generate a response at this time. Please reach out to our support team directly for assistance.,Classified as Unknown issue in User management. Intent: The user wants to know how to remove an interviewer from the platform.. Relevant KB found with confidence 0.602.,feature_request
+14,T014,2026-05-01T22:54:09.873184,replied,General,We're unable to generate a response at this time. Please reach out to our support team directly for assistance.,Classified as Unknown issue in General. Intent: Unable to classify. Relevant KB found with confidence 0.535.,product_issue
+15,T015,2026-05-01T22:54:26.563500,replied,General,We're unable to generate a response at this time. Please reach out to our support team directly for assistance.,Classified as Unknown issue in General. Intent: Unable to classify. Relevant KB found with confidence 0.718.,feature_request
+16,T016,2026-05-01T22:54:37.033760,escalated,General,Thank you for reaching out. Your request has been flagged for priority review by our specialist team. A support representative will contact you shortly to assist with this matter.,Escalated due to: High-risk keyword: 'stolen',product_issue
+1,T_SINGLE,2026-05-01T22:59:22.471443,replied,General,We're unable to generate a response at this time. Please reach out to our support team directly for assistance.,Classified as Unknown issue in General. Intent: Unable to classify. Relevant KB found with confidence 0.684.,product_issue
+1,T_SINGLE,2026-05-01T23:00:00.980125,escalated,General,Thank you for reaching out. Your request has been flagged for priority review by our specialist team. A support representative will contact you shortly to assist with this matter.,Escalated due to: High-risk keyword: 'hack',product_issue
+1,T_SINGLE,2026-05-01T23:15:17.873284,replied,General,We're unable to generate a response at this time. Please reach out to our support team directly for assistance.,Classified as Unknown issue in General. Intent: Unable to classify due to API issues. Relevant KB found with confidence 0.684.,bug
+1,T_SINGLE,2026-05-01T23:17:14.440964,replied,Technical Support,We're unable to generate a response at this time. Please reach out to our support team directly for assistance.,Classified as HackerRank issue in Technical Support. Intent: Technical assistance request. Relevant KB found with confidence 0.683.,feature_request
+1,T_SINGLE,2026-05-01T23:23:23.507686,replied,Technical Support,We're unable to generate a response at this time. Please reach out to our support team directly for assistance.,Classified as HackerRank issue in Technical Support. Intent: Technical assistance request. Relevant KB found with confidence 0.773.,feature_request
+1,T_SINGLE,2026-05-01T23:27:16.473108,escalated,General,Thank you for reaching out. Your request has been flagged for priority review by our specialist team. A support representative will contact you shortly to assist with this matter.,Escalated due to: High-risk keyword: 'hack',bug
+1,T_SINGLE,2026-05-01T23:28:08.229359,escalated,General,Thank you for reaching out. Your request has been flagged for priority review by our specialist team. A support representative will contact you shortly to assist with this matter.,Escalated due to: High-risk keyword: 'refund',bug
+1,T001,2026-05-01T23:32:26.225094,escalated,Workspace Access,Thank you for reaching out. Your request has been flagged for priority review by our specialist team. A support representative will contact you shortly to assist with this matter.,Escalated due to: High-risk keyword: 'immediate',feature_request
+2,T002,2026-05-01T23:32:46.977650,replied,Assessment score review,"We understand your concern regarding your test score and the recruiter's decision.
+
+HackerRank scores Database questions automatically by comparing your query result with the expected output, and you receive a full score if the results match. Our available information does not include details on manually reviewing answers, adjusting scores after a test, or intervening in a company's hiring decisions.
+
+If you experienced any issues during the assessment, you may contact support@hackerrank.com for assistance.","Classified as HackerRank issue in Assessment score review. Intent: User wants HackerRank test score reviewed, increased, and to be advanced to the next hiring round.. Relevant KB found with confidence 0.613.",feature_request
+3,T003,2026-05-01T23:33:00.289986,escalated,Card transaction dispute,Thank you for reaching out. Your request has been flagged for priority review by our specialist team. A support representative will contact you shortly to assist with this matter.,Escalated due to: High-risk keyword: 'refund',feature_request
+4,T004,2026-05-01T23:33:12.989015,escalated,Mock Interviews,Thank you for reaching out. Your request has been flagged for priority review by our specialist team. A support representative will contact you shortly to assist with this matter.,Escalated due to: High-risk keyword: 'refund',bug
+5,T005,2026-05-01T23:33:28.026360,escalated,Payment issue,Thank you for reaching out. Your request has been flagged for priority review by our specialist team. A support representative will contact you shortly to assist with this matter.,Escalated due to: High-risk keyword: 'give me my money',bug
+6,T006,2026-05-01T23:33:43.894076,replied,Hiring Infosec compliance forms,"Thank you for reaching out regarding your company's infosec process and form-filling requirements for using HackerRank for hiring.
+
+Based on the information available, we cannot provide details on our infosec process or assist with filling out your company's security forms. This falls outside the scope of the provided resources.
+
+For questions related to security and compliance, we recommend reaching out to our dedicated support team who can provide the necessary assistance.",Classified as HackerRank issue in Hiring Infosec compliance forms. Intent: User requests HackerRank assistance with infosec process and form completion for company hiring.. Relevant KB found with confidence 0.710.,feature_request
+7,T007,2026-05-01T23:34:05.189254,replied,Submissions and Apply tab,"Hello,
+
+I understand you are having trouble with your submissions and locating a specific tab.
+
+If you are not seeing your challenge results, please try the following steps:
+1. Wait for the challenge results to process. Results usually appear shortly after you submit a solution.
+2. Check the leaderboard, as it may take time to refresh.
+3. Close the challenge window, then reopen it using the same challenge link.
+4. Open the challenge in another supported browser, such as the latest versions of Chrome, Firefox, or Edge.
+5. Ensure your internet connection is stable.
+
+To ensure your solutions are submitted correctly:
+1. Click **Submit** after completing each solution.
+2. Click **Submit Test** after solving all questions or when you are ready to submit before the timer expires.
+3. Confirm submission by clicking **Yes, close this test**. You will not be able to make additional changes after submission.
+
+Regarding an ""apply tab,"" I don't see specific information about a tab by that name. However, if you are looking for practice features, the **Mock Interviews** feature is available under the **Prepare** tab. You can also access Mock Interviews directly [here](https://www.hackerrank.com/mock-interviews).",Classified as HackerRank issue in Submissions and Apply tab. Intent: User reports that submissions are not working and they cannot see the apply tab.. Relevant KB found with confidence 0.478.,bug
+8,T008,2026-05-01T23:34:36.828958,replied,Test platform submissions,"Thank you for reaching out. I understand you're experiencing issues with your submissions across challenges.
+
+If you are not seeing your challenge results, please try the following steps:
+1.  Wait for the challenge results to process. Challenge results usually appear shortly after you submit a solution. Once the system evaluates your submission, you can see your points, badges, and rank in the upper-right corner of the challenge page.
+2.  Check the leaderboard, as leaderboards may take time to refresh.
+
+You can also try these general troubleshooting steps for challenge access:
+1.  Close the challenge window, then reopen it using the same challenge link.
+2.  Open the challenge in another supported browser, such as the latest versions of Chrome, Firefox, or Edge, for full compatibility.
+3.  Ensure your internet connection is stable.
+
+If the issue persists after trying these steps, please contact support@hackerrank.com for further assistance.",Classified as HackerRank issue in Test platform submissions. Intent: Report that test submissions are failing across all challenges.. Relevant KB found with confidence 0.684.,bug
+9,T009,2026-05-01T23:34:58.758682,replied,Online Test Compatibility,"I understand you're experiencing a blocker with the compatibility check, specifically concerning Zoom connectivity, and that you've already tried various settings and system configurations.
+
+Our resources emphasize the importance of checking your network coverage and using the Internet compatibility check before taking a test. However, the available information does not provide specific troubleshooting steps for Zoom connectivity issues encountered during the compatibility check itself.
+
+To get direct assistance with this particular technical issue, please reach out to our support team for further guidance.",Classified as HackerRank issue in Online Test Compatibility. Intent: User needs assistance resolving Zoom connectivity error during compatibility check to take an online test.. Relevant KB found with confidence 0.510.,bug
+10,T010,2026-05-01T23:35:20.235556,replied,Assessment scheduling,We're unable to generate a response at this time. Please reach out to our support team directly for assistance.,Classified as HackerRank issue in Assessment scheduling. Intent: User requests to reschedule a HackerRank assessment due to unforeseen circumstances.. Relevant KB found with confidence 0.652.,feature_request
+11,T011,2026-05-01T23:36:00.244878,replied,Interview session inactivity timeout,"Hello,
+
+Thank you for reaching out.
+
+Based on the information available, an interview session will automatically end, and the candidate will move to the lobby after an hour of inactivity if no other interviewers are present. The context does not provide details on different inactivity times for candidates versus interviewers in other scenarios, nor does it specify how screen sharing or Observation Mode might affect inactivity timers.
+
+We understand your concern regarding candidates being sent to the lobby during screen sharing sessions. However, the provided information does not include details on the 20-minute inactivity timeframe you mentioned, nor does it offer options to customize or extend inactivity settings.
+
+For further assistance, please contact the appropriate team as this information is beyond what is available in our current resources.",Classified as HackerRank issue in Interview session inactivity timeout. Intent: User seeks to confirm and request an extension of inactivity timeout settings for interviewers and candidates.. Relevant KB found with confidence 0.606.,feature_request
