@@ -1,6 +1,3 @@
-Here is your **final, clean, recruiter-grade README.md** — properly structured, concise, and high-impact. You can directly copy-paste this into your repo.
-
----
 
 ````md
 # 🏆 Multi-Domain Support Triage Agent
